@@ -1,39 +1,39 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: T N Avinash
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position/tagline
-role: Professor of Artificial Intelligence
+role: Scientist. Teacher
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: Stanford University
-  url: https://www.stanford.edu/
-
+- name: 
+  url: 
+  
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: 
 
 # Interests to show in About widget
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Protein structure & evolution
+- Science Education
+- History of Science
 
 # Education to show in About widget
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+  - course: PhD in Biomedical Sciences
+    institution: East Tennessee State University
+    year: 2014
+  - course: MSc in Biotechnology
+    institution: Madurai Kamaraj University
+    year: 2002
+  - course: BSc in Microbiology, Chemistry & Zoology
+    institution: St. Joseph's College (Autonomous)
+    year: 2000
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
